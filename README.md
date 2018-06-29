@@ -10,7 +10,7 @@
 
 > Curated list of resources: books, videos, articles about using [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
-List inspired by the (awesome)(https://github.com/sindresorhus/awesome). list thing.
+List inspired by the [awesome](https://github.com/sindresorhus/awesome). list thing.
 
 Nuxt.js is a framework for creating Universal Vue.js Applications.
 
