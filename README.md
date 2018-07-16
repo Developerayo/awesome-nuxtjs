@@ -103,7 +103,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Certain Lending](https://www.certainlending.com/)
 - [Behance](https://www.behance.net/)
 - [BBDO](https://bbdo.com/)
-
+ `
 
 
 ### Getting started with Nuxtjs (From Nuxt Community starter template)
