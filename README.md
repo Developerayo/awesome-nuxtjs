@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67
+   <img align="center" style="width:320px" src="https://nuxtjs.org/meta_400.png"/>
   <br>
   <br>
   <br>
