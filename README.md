@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="http://imgur.com/V4LtoII.png" />
+    https://camo.githubusercontent.com/06b2f979b4fbab8f1822cab69783700f0afa1f90/68747470733a2f2f6e7578746a732e6f72672f6d6574615f3430302e706e67
   <br>
   <br>
   <br>
